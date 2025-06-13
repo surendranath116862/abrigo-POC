@@ -8,6 +8,7 @@ describe('Activity Overview Details for CTR', () => {
 
     
     beforeEach(() => {
+        cy.wait(1000)
     })
 
     it('C6370826: Activity Overview Details for CTR', () => {

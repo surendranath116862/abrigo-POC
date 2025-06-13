@@ -11,6 +11,7 @@ describe('Activity Overview Details for CTR', () => {
     })
 
     it('C6370826: Activity Overview Details for CTR', () => {
+        cy.wait(1000)
         ctrListPage = new CTRListPage()
         ctrListPage.waitForLoadingText()
         ctrListPage.clickStatusDropdown()

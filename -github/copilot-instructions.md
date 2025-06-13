@@ -1,7 +1,7 @@
 # Code Review Checklist
 
 ## General Guidelines
-    1. ** should not use wait other then timeout **
+    1. ** should not use wait other than timeout **
     2. ** alignment need to be proper **
     3. ** method should not be recreated **
     4. ** variables name should be camelCase **

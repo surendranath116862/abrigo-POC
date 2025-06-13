@@ -6,6 +6,7 @@ describe('Activity Overview Details for CTR', () => {
     let ddmPage
     let url='/BAMPlus/CTRManagerPlus/CtrDetail/'
 
+    
     beforeEach(() => {
     })
 
